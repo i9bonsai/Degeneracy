@@ -1,7 +1,7 @@
 {
     "port": 8443,
     "ssl": false,
-    "title": "Degeneracy",
+    "title": "temp",
     "prefix": "/go/",
     "codec": "xor",
     "blacklist": ["accounts.google.com"],
